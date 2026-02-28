@@ -1,6 +1,6 @@
 # multi_drone_coordination
 
-Abstract
+Abstract:
 Drones have emerged as versatile tools across various industries, with mapping en-
 vironments being a prominent application. However, mapping extensive terrains
 demands the collaborative efforts of multiple drones to efficiently accomplish the
